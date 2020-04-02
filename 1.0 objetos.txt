@@ -1,0 +1,13 @@
+###########################################################################
+# Semestre : 2020-1                                                        #
+# Curso    : Programación                                                  #
+# Sesión   : 0bjetivo :                                                    #                                                                         #
+# Autor    :                                                               #
+# Versión  :1.0                                                            #
+# Fecha de modifcación:                                                    #
+############################################################################
+
+class judadores:
+    delant_derecho = "marcelo"
+
+print(judadores.delant_derecho)
