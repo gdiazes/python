@@ -9,10 +9,9 @@
 # Versión  :1.0                                                            #
 # Fecha de modifcación:                                                    #
 ############################################################################
+A = 5
+B = 7
+C = 10
+D = 15
 
-# Usar funcion type()
-var1= 10 
-var2= "Lima"
-var3= 0.16
-print ("10 es: ", type(var1))
-print ("Lima es: ", type(var2))
+print("Respuesta 2",-B>A, C<D)
